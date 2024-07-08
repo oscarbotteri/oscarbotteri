@@ -1,7 +1,7 @@
 ### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=oscarbotteri&label=Profile%20views&color=0e75b6&style=flat" alt="oscarbotteri" />
 
 * 🇦🇷 Argentinian
-* 💼 Senior Full Stack Engineer at Rocket Insights.
+* 💼 Senior Full Stack Sotfware Engineer
 * 📚 Learning NextJS and NestJS
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
