@@ -11,7 +11,7 @@ I’m Oscar, aka Osqui — a Senior Software Developer who believes in clean cod
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/oscarbotteri/oscarbotteri/54ff4ce0d3824caab8a73c342e9063b7203e1a3d/github.svg" />
 
 - 🇦🇷 I’m from Argentina
-- 👨🏽‍💻 I’m currently working on [Lumenalta](https://lumenalta.com)
+- 👨🏽‍💻 I’m currently working at [Lumenalta](https://lumenalta.com)
 - 🛠️ Passionate about design patterns & clean code
 - 🌱 Currently learning Rust & DevOps
 - 💬 Always open to collaboration or a good dev chat
